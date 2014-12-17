@@ -1,0 +1,59 @@
+.TopContainer {
+background: black;
+color: white;
+}
+
+.TopPadding {
+	padding-top: 40px;
+}
+
+.BottomPadding {	
+	padding-bottom: 40px;
+}
+
+.TopPadding-sm {
+	padding-top: 20px;
+}
+
+.BottomPadding-sm {
+	padding-bottom: 20px;
+}
+
+.BottomPadding-lg {
+	padding-bottom: 60px;
+}
+
+
+.FontShadows {
+	font-family: 'Shadows Into Light';
+	font-size: 25px;	
+}
+
+.c_underline1 {
+	border-bottom: 2px solid black;
+	display: inline;
+}
+
+.c_underline1 a{
+	color: black;
+	text-decoration: none;
+}
+
+.undecorated_link:hover{
+	text-decoration: none;
+}
+
+#ProProjects {
+	font-family: 'Poiret One';
+	font-weight: 700;
+	/*font-family: 'Crafty Girls';*/
+	font-size: 25px;
+}
+
+.homePage {
+	background-color: #c2c2c2;
+}
+
+.whiteBack {
+	background-color: white;
+}
